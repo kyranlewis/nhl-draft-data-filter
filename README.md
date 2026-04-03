@@ -5,12 +5,16 @@ This is a Python-based program that generates new filtered datasets based on cri
 The different critera you can filter by are:
 
 - **Nationality**
+
 _Input the 2-letter country abbreviation (e.g., CA for Canada, SE for Sweden)_
 - **Position**
+
 _Input the position abbreviation (e.g., C for Center, LW for Left Wing)_
 - **Draft Year**
+
 _Input a valid year within the dataset (1963–2022) to return all players drafted in that year_
 - **Team**
+
 _The program generates a list of NHL franchises included in the dataset._
 _You can select a team by entering its corresponding number to return all players drafted by that franchise_
 
