@@ -1,4 +1,4 @@
-### NHL Draft Data Filtration & Transformation
+# NHL Draft Data Filtration & Transformation
 
 This is a Python-based program that generates filtered NHL draft datasets based on user-defined criteria.
 
