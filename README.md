@@ -55,6 +55,9 @@ You will then have the option to export the filtered results into a new CSV file
 
 
 
+# Data Analysis Insight
+This program was created to essentially be a data-cleansing type of software. The use for something like this is great on getting only the data that matters to what you want to analyze, without the extra bloat that comes with the rest of the data.
+
 # Dataset Used:
 "NHL Draft Hockey Player Data (1963–2022)" by Matt OP
 https://www.kaggle.com/datasets/mattop/nhl-draft-hockey-player-data-1963-2022
