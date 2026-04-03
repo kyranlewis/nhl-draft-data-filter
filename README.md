@@ -2,8 +2,6 @@
 
 This is a Python-based program that generates filtered NHL draft datasets based on user-defined criteria.
 
-
-
 The different critera you can filter by are:
 
 - **Nationality**
@@ -55,7 +53,7 @@ You will then have the option to export the filtered results into a new CSV file
 
 
 
-# Data Analysis Insight
+# Outcome
 This program was created to essentially be a data-cleansing type of software. The use for something like this is great on getting only the data that matters to what you want to analyze, without the extra bloat that comes with the rest of the data.
 
 # Dataset Used:
