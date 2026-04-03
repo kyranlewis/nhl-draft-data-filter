@@ -37,8 +37,12 @@ Once all players are displayed, the program also shows:
 
 You will then have the option to export the filtered results into a new CSV file with a custom name.
 
-Dataset Used:
+# Dataset Used:
 "NHL Draft Hockey Player Data (1963–2022)" by Matt OP
 https://www.kaggle.com/datasets/mattop/nhl-draft-hockey-player-data-1963-2022
 
 Total Rows: 12,251
+
+# Project Context
+This project was used as a final project for my first Python Programming course at NSCC.
+Designed to display skills in data filtration & transformation, and creating a user-focused program.
