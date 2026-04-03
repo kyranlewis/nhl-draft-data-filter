@@ -1,5 +1,4 @@
 # nhl-draft-data-filter
-nhl-draft-data-filter
 
 This is a Python-based program that generates new filtered datasets based on critera provided by the user.
 
